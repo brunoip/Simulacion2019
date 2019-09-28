@@ -1,0 +1,29 @@
+C:\Python37\python.exe C:/Users/Bruno/TestPython/tp2/ComaMM2Final.py
+Cola MM2 Final
+Mean interarrival time: 0.75  minutes
+Mean service time: 1 minutes
+Number of customers: 1000
+
+Average delay in queue:  0.133  minutes
+Average number in queue:  0.288
+Average time spent in system:  1.825  minutes
+Server utilization 1:  0.54
+Server utilization 2:  0.51
+Time simulation end 744.24
+
+Report for  1 :
+Average delay in queue:  0.02  minutes
+Average number in queue:  0.023
+Server utilization:  0.39
+
+Report for  2 :
+Average delay in queue:  0.009  minutes
+Average number in queue:  0.023
+Server utilization:  0.4
+
+Report for  3 :
+Average delay in queue:  0.002  minutes
+Average number in queue:  0.024
+Server utilization:  0.37
+
+Process finished with exit code 0

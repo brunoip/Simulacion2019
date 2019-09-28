@@ -1,0 +1,27 @@
+Cola MM2 Final - Rev 2
+Queue type: Priorities
+Mean interarrival time: 0.75  minutes
+Mean service time: 1 minutes
+Number of customers: 1000
+
+Average delay in queue:  0.131  minutes
+Average number in queue:  1.083
+Average time spent in system:  1.903  minutes
+Server utilization 1:  0.58
+Server utilization 2:  0.5
+Time simulation end 734.78
+
+Report for  1 :
+Average delay in queue:  0.081  minutes
+Average number in queue:  0.036
+Server utilization:  0.41
+
+Report for  2 :
+Average delay in queue:  0.056  minutes
+Average number in queue:  0.028
+Server utilization:  0.4
+
+Report for  3 :
+Average delay in queue:  0.059  minutes
+Average number in queue:  0.033
+Server utilization:  0.37

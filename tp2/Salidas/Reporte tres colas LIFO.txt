@@ -1,0 +1,29 @@
+Cola MM2 Final - Rev 2
+Queue type: LIFO
+Mean interarrival time: 0.75  minutes
+Mean service time: 1 minutes
+Number of customers: 1000
+
+Average delay in queue:  55.621  minutes
+Average number in queue:  0.934
+Average time spent in system:  4.424  minutes
+Server utilization 1:  0.59
+Server utilization 2:  0.51
+Time simulation end 742.14
+
+Report for  1 :
+Average delay in queue:  0.068  minutes
+Average number in queue:  0.028
+Server utilization:  0.38
+
+Report for  2 :
+Average delay in queue:  0.068  minutes
+Average number in queue:  0.031
+Server utilization:  0.38
+
+Report for  3 :
+Average delay in queue:  0.031  minutes
+Average number in queue:  0.021
+Server utilization:  0.34
+
+Process finished with exit code 0
